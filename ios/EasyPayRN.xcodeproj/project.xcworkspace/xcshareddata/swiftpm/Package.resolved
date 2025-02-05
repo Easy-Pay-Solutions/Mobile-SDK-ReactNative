@@ -1,0 +1,33 @@
+{
+  "originHash" : "d56cbc8231490916743788daa65a624cdd97272b0898ad491f75fce26874c96f",
+  "pins" : [
+    {
+      "identity" : "iossecuritysuite",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/securing/IOSSecuritySuite.git",
+      "state" : {
+        "revision" : "651f1ca002b1060214173e55b9040272ae91abcd",
+        "version" : "1.9.11"
+      }
+    },
+    {
+      "identity" : "mobile-sdk-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Easy-Pay-Solutions/Mobile-SDK-IOS.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "f1b010cbab000684301f30eb54465f5e7de7ef5b"
+      }
+    },
+    {
+      "identity" : "sentry-cocoa",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/getsentry/sentry-cocoa",
+      "state" : {
+        "revision" : "f45e9c62d7a4d9258ac3cf35a3acf9dbab4481d1",
+        "version" : "8.43.0"
+      }
+    }
+  ],
+  "version" : 3
+}
