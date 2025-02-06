@@ -3,7 +3,7 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 # Getting Started
 
 ## Step 1: Setup your Environment
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
 ## Step 2: Install Components
 
@@ -13,7 +13,7 @@ From the project's root folder, run npm install. This will load the node_modules
 Change directories to the ios folder and run pod install.
 
 ```
-# in a new terminal window
+# in a terminal window
 npm install
 
 cd ios
