@@ -23,8 +23,15 @@ yarn start
 ### For iOS
 
 From the project's root folder, run npm install. This will load the node_modules packages that are listed in the package.json file.
+Change directories to the ios folder and run pod install.
 
-cd to the ios folder and run pod install.
+```
+# in a new terminal window
+npm install
+
+cd ios
+pod install
+```
 
 ## Step 3: Start your Application
 
