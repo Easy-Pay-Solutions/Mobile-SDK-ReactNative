@@ -168,8 +168,8 @@ function App(): React.JSX.Element {
       return;
     }
 
-    EasyPayModule.configureSecrets("628E32BF0D544DDA88303238373541303338323735",
-      "8E66DBB3D691C9E0FDF341E4AB38C3C9",
+    EasyPayModule.configureSecrets("api key",
+      "hmac secret",
       null)
   }
 
@@ -180,8 +180,8 @@ function App(): React.JSX.Element {
       return;
     }
 
-    EasyPayModule.configureSecrets("628E32BF0D544DDA88303238373541303338323735",
-      "8E66DBB3D691C9E0FDF341E4AB38C3C9",
+    EasyPayModule.configureSecrets("api key",
+      "hmac secret",
       null,
       true)
   }
